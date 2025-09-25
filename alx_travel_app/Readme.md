@@ -23,9 +23,4 @@ This project is part of the **ALX Backend Program** and demonstrates skills in r
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/alx_travel_app.git
-cd alx_travel_app
